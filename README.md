@@ -1,13 +1,13 @@
 # SecureCommunication-CryptographyProject
 
-**Introduction **
+**Introduction**
 The assignment addresses the critical challenge of preserving privacy in communication channels, aiming to maintain the confidentiality and integrity of transmitted data. In an era of digital communication dominance, ensuring security is crucial, given the exposure of data to threats like eavesdropping and tampering. There's a pressing need for robust mechanisms to safeguard communication privacy, protecting data integrity and confidentiality.
 
 **Importance of the Problem:**
 Ensuring privacy in communication is vital, considering the reliance on digital platforms for personal, professional, and governmental interactions. Breaches of privacy can lead to financial loss, reputational damage, and compromise national security. Existing solutions focus on encryption and hashing techniques to secure communication channels, but challenges remain in efficiently detecting and thwarting tampering attempts, necessitating innovation in privacy-preserving communication methodologies.
 
 Here is the project design :
-![image](https://github.com/Nikhitha-webdeveloper/SecureCommunication-
+https://github.com/Nikhitha-webdeveloper/SecureCommunication-CryptographyProject/blob/main/CryptoProjectDesign.jpg
 
 How to run:
 1) First run hacker code using :
